@@ -2,16 +2,16 @@
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
-url:                 https://appdev-projects.github.io/
+url:                 https://Smodic-AppDev.github.io/
 baseurl:             'til/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Raghu Betina
-  url:               https://twitter.com/raghubetina
-  email:             raghu@firstdraft.com
+  name:              Dan Smodic
+  url:               
+  email:             dsmodic@chicagobooth.edu
 
 # Gems
 plugins:
