@@ -2,7 +2,7 @@
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
-url:                 https://Smodic-AppDev.github.io/
+url:                 https://dsmodic.github.io/
 baseurl:             'til/'
 paginate:            5
 permalink:           pretty
